@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="" title=""  description="">
+    <siteMapNode url="" title="Income Tax"  description="Home Page">
+      <siteMapNode url="" title="Individuals"  description="Jobs Page"/>
+      <siteMapNode url="" title="Firms and LLps"  description="Upload Page" />
+      <siteMapNode url="" title="Companies"  description="Forums Page"/>
+      <siteMapNode url="" title="Trusts, Societies and AoP,etc"  description="Careers Page" />
+      <siteMapNode url="" title="Others"  description="Careers Page" />
+    </siteMapNode>
+    <siteMapNode url="" title="Customs"  description="Home Page">
+      <siteMapNode url="" title="Imports"  description="Jobs Page"/>
+      <siteMapNode url="" title="Exports"  description="Upload Page" />
+      <siteMapNode url="" title="Others"  description="Forums Page"/>
+    </siteMapNode>
+    <siteMapNode url="" title="Central Excise"  description="Home Page">
+      <siteMapNode url="" title="Acts"  description="Jobs Page"/>
+      <siteMapNode url="" title="Rules"  description="Upload Page" />
+      <siteMapNode url="" title="Forms"  description="Forums Page"/>
+    </siteMapNode>
+    <siteMapNode url="" title="Service Tax"  description="Jobs Page" />
+    <!--<siteMapNode url="" title="Forein Trade Policy"  description="Upload Page" />
+    <siteMapNode url="" title="RBI and Banking"  description="ContacUs Page" />-->
+    <siteMapNode url="" title="Finance"  description="ContacUs Page" />
+    <siteMapNode url="" title="HR matters"  description="ContacUs Page" >
+      <siteMapNode url="" title="PF"  description="ContacUs Page" />
+      <siteMapNode url="" title="ESI"  description="ContacUs Page" />
+      <siteMapNode url="" title="Statutes"  description="ContacUs Page" />
+    </siteMapNode>
+    <siteMapNode url="" title="GST"  description="ContacUs Page" />
+    <siteMapNode url="" title="Company Law"  description="ContacUs Page" >
+      <siteMapNode url="" title="LLPs"  description="ContacUs Page" />
+    </siteMapNode>
+    <!--<siteMapNode url="" title="Professional Education"  description="ContacUs Page" />-->
+  </siteMapNode>
+</siteMap>
